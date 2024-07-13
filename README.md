@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AUTONOMOUS VEHICLE MICROSERVICE
 
 The goal of this project is to develop an AI micro-system capable of detecting objects in video and predicting their motions in real time.
@@ -23,7 +22,7 @@ To train the model use the script:
 ### Fast API ###
 * ```uvicorn main:app --host 0.0.0.0 --port 8000`` 
 
-## Tools ## 
+### Tools ### 
 * ```pip install -r requirements.txt ``` 
 =======
 # Vehicle-Tracking-Detection
