@@ -24,6 +24,3 @@ To train the model use the script:
 
 ### Tools ### 
 * ```pip install -r requirements.txt ``` 
-=======
-# Vehicle-Tracking-Detection
->>>>>>> 3294c5089f887eca6dbe3c9f5dde0f8f834f424b
