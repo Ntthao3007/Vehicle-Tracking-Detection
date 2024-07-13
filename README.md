@@ -20,7 +20,7 @@ To train the model use the script:
 * ```python3 ./YOLO/Training/gradio_app_video.pyy``` for video upload
 
 ### Fast API ###
-* ```uvicorn main:app --host 0.0.0.0 --port 8000`` 
+* ```uvicorn main:app --host 0.0.0.0 --port 8000```
 
 ### Tools ### 
 * ```pip install -r requirements.txt ``` 
